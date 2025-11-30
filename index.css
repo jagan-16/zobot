@@ -1,0 +1,12 @@
+/* Main stylesheet - styles are primarily handled by Tailwind CSS */
+/* Additional custom styles can be added here if needed */
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
+
